@@ -14,9 +14,8 @@
 - **Tools:** VS Code, Git, GitHub
 
 ### 📂 My Projects
-- Python-note
-- python-program-code
-- Banking System using Python
+- [Python-note](https://github.com/mayurishinde04/Python-note)
+- [python-program-code](https://github.com/mayurishinde04/python-program-code)
 
 ### 🌱 Currently Learning
 - Python Programming
